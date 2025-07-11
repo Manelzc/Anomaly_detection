@@ -1,0 +1,6 @@
+torch==2.0.1
+torchvision==0.15.2
+pytorchvideo==0.1.5
+torchinfo==1.8.0
+tqdm==4.66.4
+numpy==1.25.2
